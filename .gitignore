@@ -1,0 +1,12 @@
+# Hide large datasets
+spice_data/
+
+# Hide temporary ORCA files
+orca_jobs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (very important!)
+synergy_env/

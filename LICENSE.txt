@@ -1,0 +1,16 @@
+SynergyFF Academic and Non-Commercial License
+Copyright (c) 2024-2025 Dimitar Kretski
+
+This software and associated documentation files (the "Software") are provided under the following terms:
+
+1. ACADEMIC AND NON-COMMERCIAL USE:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software to use, copy, modify, and merge the Software strictly for academic, educational, or non-profit research purposes, subject to the following conditions:
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+- Any academic publication resulting from the use of this Software must acknowledge the author (Dimitar Kretski / SynergyFF).
+
+2. COMMERCIAL USE:
+Any commercial use, including but not limited to use within a for-profit company, use for proprietary drug discovery, integration into commercial software, or offering the Software as a service (SaaS), is STRICTLY PROHIBITED without a separate Commercial License.
+
+To obtain a Commercial License, please contact the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
